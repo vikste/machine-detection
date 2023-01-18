@@ -1,0 +1,98 @@
+attribute,data_type,description
+arpu_grp_eea,String,ARPU level based on ARPU for an IMSI
+audio_count_1d,Double,Count of audio functionality in ESRs for the day for an IMSI
+audio_count_dy_avg_eea,Double,Avg daily count of audio functionality in ESRs over time for an IMSI
+audio_count_grp_eea,String,Audio Usage Level based on avg daily count of audio functionality over time for an IMSI 
+cell_top_count_eea,Set,Most frequently occurring Cell in ESRs over time for an IMSI
+cellid_top_data_dl_14d,Set,Cell Loc ID with largest data download (bytes) for last 14 days for an IMSI
+customer_status_1d,String,Last Status for the day from CRM for an IMSI
+data_dl_dy_avg_14d,Double,Daily average data download (bytes) for last 14 days for an IMSI
+date_1d,String,
+email_count_1d,Double,Count of email functionality in ESRs for the day for an IMSI
+email_count_dy_avg_eea,Double,Avg daily count of email functionality in ESRs over time for an IMSI 
+email_count_grp_eea,String,Email Usage Level based on avg daily count of email functionality over time for an IMSI 
+file_sharing_count_1d,Double,Count of file sharing functionality in ESRs for the day for an IMSI
+file_sharing_count_dy_avg_eea,Double,Avg daily count of file sharing functionality in ESRs over time for an IMSI
+file_sharing_count_grp_eea,String,File Sharing Usage Level based on avg daily count of file sharing functionality over time for an IMSI 
+gaming_count_1d,Double,Count of gaming functionality in ESRs for the day for an IMSI
+gaming_count_dy_avg_eea,Double,Avg daily count of gaming functionality in ESRs over time for an IMSI
+gaming_count_grp_eea,String,Gaming Usage Level based on avg daily count of gaming functionality over time for an IMSI 
+im_count_1d,Double,Count of iMessage and communication functionality in ESRs for the day for an IMSI
+im_count_dy_avg_eea,Double,Avg daily count of iMessage and communication functionality in ESRs over time for an IMSI
+im_count_grp_eea,String,IM Usage Level based on avg daily count of iMessage and communication functionality over time for an IMSI 
+pct_data_consumption_1d,Double,Last Percent Data Consumption value for the day for an IMSI
+pct_data_consumption_eea,Double,Last Percent Data Consumption value over time for an IMSI
+pct_data_consumption_grp_eea,String,Percent Data Consumption Level based on percent data consupmption  for an IMSI
+sli_1d,Double,Overall SLI for the day for an IMSI
+sli_cause_1d,String,Main Cause for 'overall' SLI for the day for an IMSI
+sli_cause_data_1d,String,Main Cause for Data SLI for the day for an IMSI
+sli_cause_detail_mms_1d,String,Detail associated with Main Cause for MMS SLI for the day for an IMSI
+sli_cause_detail_sms_1d,String,Detail associated with Main Cause for SMS SLI for the day for an IMSI
+sli_cause_detail_top_mms_eea,String,Detail associated with Main Cause for MMS SLI over time for an IMSI
+sli_cause_detail_top_sms_eea,String,Detail associated with Main Cause for SMS SLI over time for an IMSI
+sli_cause_detail_top_voice_eea,String,Detail associated with Main Cause for Voice SLI over time for an IMSI
+sli_cause_detail_top_voip_eea,String,Detail associated with Main Cause for VoIP SLI over time for an IMSI
+sli_cause_detail_top_volte_eea,String,Detail associated with Main Cause for VoLTE SLI over time for an IMSI
+sli_cause_detail_type_1d,String,Detail Type associated with Main Cause for 'overall' SLI for the day for an IMSI
+sli_cause_detail_type_data_1d,String,Detail Type associated with Main Cause for Data SLI for the day for an IMSI
+sli_cause_detail_type_mms_1d,String,Detail Type associated with Main Cause for MMS SLI for the day for an IMSI
+sli_cause_detail_type_sms_1d,String,Detail Type associated with Main Cause for SMS SLI for the day for an IMSI
+sli_cause_detail_type_top_data_eea,String,Detail Type associated with Main Cause for Data SLI over time for an IMSI
+sli_cause_detail_type_top_eea,String,Detail Type associated with Main Cause for 'overall' SLI over time for an IMSI
+sli_cause_detail_type_top_mms_eea,String,Detail Type associated with Main Cause for MMS SLI over time for an IMSI
+sli_cause_detail_type_top_sms_eea,String,Detail Type associated with Main Cause for SMS SLI over time for an IMSI
+sli_cause_detail_type_top_voice_eea,String,Detail Type associated with Main Cause for Voice SLI over time for an IMSI
+sli_cause_detail_type_top_voip_eea,String,Detail Type associated with Main Cause for VoIP SLI over time for an IMSI
+sli_cause_detail_type_top_volte_eea,String,Detail Type associated with Main Cause for VoLTE SLI over time for an IMSI
+sli_cause_detail_type_voice_1d,String,Detail Type associated with Main Cause for Voice SLI for the day for an IMSI
+sli_cause_detail_type_voip_1d,String,Detail Type associated with Main Cause for VoIP SLI for the day for an IMSI
+sli_cause_detail_type_volte_1d,String,Detail Type associated with Main Cause for VoLTE SLI for the day for an IMSI
+sli_cause_detail_voice_1d,String,Detail associated with Main Cause for Voice SLI for the day for an IMSI
+sli_cause_detail_voip_1d,String,Detail associated with Main Cause for VoIP SLI for the day for an IMSI
+sli_cause_detail_volte_1d,String,Detail associated with Main Cause for VoLTE SLI for the day for an IMSI
+sli_cause_mms_1d,String,Main Cause for MMS SLI for the day for an IMSI
+sli_cause_sms_1d,String,Main Cause for SMS SLI for the day for an IMSI
+sli_cause_top_data_eea,String,Main Cause for Data SLI over time for an IMSI
+sli_cause_top_eea,String,Main Cause for 'overall' SLI over time for an IMSI
+sli_cause_top_mms_eea,String,Main Cause for MMS SLI over time for an IMSI
+sli_cause_top_sms_eea,String,Main Cause for SMS SLI over time for an IMSI
+sli_cause_top_voice_eea,String,Main Cause for Voice SLI over time for an IMSI
+sli_cause_top_voip_eea,String,Main Cause for VoIP SLI over time for an IMSI
+sli_cause_top_volte_eea,String,Main Cause for VoLTE SLI over time for an IMSI
+sli_cause_voice_1d,String,Main Cause for Voice SLI for the day for an IMSI
+sli_cause_voip_1d,String,Main Cause for VoIP SLI for the day for an IMSI
+sli_cause_volte_1d,String,Main Cause for VoLTE SLI for the day for an IMSI
+sli_data_1d,Double,Data SLI for the day for an IMSI
+sli_data_eea,Double,Data SLI over time for an IMSI
+sli_eea,Double,Service Level Index (SLI) based on last 14 days for an IMSI
+sli_grp_eea,String,"SLI Level (e.g., High, Medium, Low) based on Overall SLI over time for an IMSI "
+sli_mms_1d,Double,MMS SLI for the day for an IMSI
+sli_mms_eea,Double,MMS SLI over time for an IMSI
+sli_neg_impact_svc_1d,String,Most negatively impacting Service for the day for an IMSI
+sli_neg_impact_svc_top_eea,String,Most negatively impacting Service over time for an IMSI
+sli_sms_1d,Double,SMS SLI for the day for an IMSI
+sli_sms_eea,Double,SMS SLI over time for an IMSI
+sli_voice_1d,Double,Voice SLI for the day for an IMSI
+sli_voice_eea,Double,Voice SLI over time for an IMSI
+sli_voip_1d,Double,VoIP SLI for the day for an IMSI
+sli_voip_eea,Double,VoIP SLI over time for an IMSI
+sli_volte_1d,Double,VoLTE SLI for the day for an IMSI
+sli_volte_eea,Double,VoLTE SLI over time for an IMSI
+sli_weight_1d,Double,Weight of SLI for the day for an IMSI
+sli_weight_Data_1d,Double,Weight of Data SLI for the day for an IMSI
+sli_weight_MMS_1d,Double,Weight of MMS SLI for the day for an IMSI
+sli_weight_SMS_1d,Double,Weight of SMS SLI for the day for an IMSI
+sli_weight_VoIP_1d,Double,Weight of VoIP SLI for the day for an IMSI
+sli_weight_VoLTE_1d,Double,Weight of VoLTE SLI for the day for an IMSI
+sli_weight_Voice_1d,Double,Weight of Voice SLI for the day for an IMSI
+sli_weight_eea,Double,Weight of SLI over time for an IMSI
+social_count_1d,Double,Count of social networking functionality in ESRs for the day for an IMSI
+social_count_dy_avg_eea,Double,Avg daily count of social networking functionality in ESRs over time for an IMSI
+social_count_grp_eea,String,Social Networking Usage Level based on avg daily count of social networking functionality over time for an IMSI 
+type,String,Nature of the IMSI (human or machine)
+video_count_1d,Double,Count of video functionality in ESRs for the day for an IMSI
+video_count_dy_avg_eea,Double,Avg daily count of video functionality in ESRs over time for an IMSI
+video_count_grp_eea,String,Video Usage Level based on avg daily count of video functionality over time for an IMSI 
+web_count_1d,Double,Count of web functionality in ESRs for the day for an IMSI
+web_count_dy_avg_eea,Double,Avg daily count of web functionality in ESRs over time for an IMSI
+web_count_grp_eea,String,Web Browsing Usage Level based on avg daily count of web functionality over time for an IMSI 
